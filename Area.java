@@ -12,7 +12,8 @@ public class Area {
 	public void area(int sideLength){
 		int area = sideLength*sideLength;
 		System.out.println(area);
-		System.out.println("area");
+		System.out.println("area1");
+		
 	}
 	
 	public void areaCircle(int radius){
